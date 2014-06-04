@@ -1,0 +1,36 @@
+#boba-cup{
+	border-radius: 50%; 
+	width: 500px;
+	height: 500px; 
+	background-color: #DDCFE3;
+	border-style: #FDCFE3;
+	border-width: 4px;
+	border-color: none;
+	position: fixed;
+}
+
+#boba-bottom{
+	border-radius: 50%; 
+	width: 50%;
+	height: 50%; 
+	background-color: none;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25%;
+}
+
+.boba-ball{
+	border-radius: 50%; 
+	width: 50px;
+	height: 50px; 
+	background-color: #070202;
+	border-style: solid;
+	border-width: 3px;
+	border-color: gray;
+	position: absolute;
+}
+#v{
+	left: 50px;
+
+}

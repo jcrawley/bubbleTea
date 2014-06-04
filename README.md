@@ -8,6 +8,6 @@ Ronald and Joe were eating fried Oreos and thought this was a good idea
 
 This is a web-app that will also be a Cordova project
 
-## Instalation
+## Installation
 
 Coming soon
