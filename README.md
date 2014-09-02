@@ -10,4 +10,4 @@ This is a web-app that will also be a Cordova project
 
 ## Installation
 
-Coming soon. Access it on the web at jcrawley.github.io/bubbleTea.
+Coming soon. Access it on the web at http://jcrawley.github.io/bubbleTea.
